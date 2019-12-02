@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">봄날소개팅</string>
+    <string name="url">http://www.bomlove.com</string>
+    <string name="domain">http://www.bomlove.com</string>
+    <string name="btn_menu1">홈으로</string>
+    <string name="btn_menu2">전화걸기</string>
+    <string name="btn_menu3">오시는 길</string>
+    <string name="btn_menu4">공유하기</string>
+    <string name="btn_menu5">종료</string>
+
+</resources>
